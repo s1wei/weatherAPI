@@ -3,10 +3,15 @@
 
 # 文件介绍
 GetStaionId.py --- 获取地址对应的 stationid 并且保存到 stationid.ini
+
 WeatherApi.py ---- 天气API服务启动（本项目主要功能）
+
 Test.py ---- 简易请求API接口案例
+
 main.py ---- 初代版本代码，供学习参考
+
 stationid.ini ---- 地址对应的 stationid 信息存储
+
 
 # 简介
 毕业答辩简单做的一个小作品
